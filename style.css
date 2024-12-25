@@ -1,0 +1,27 @@
+@font-face{
+    font-family: customfont;
+    src: url(font/Poppins-ExtraBold.ttf);
+    font-family: customtwo;
+    src: url(font/Poppins-SemiBoldItalic.ttf);
+    font-family: customthree;
+    src: url(./font/Poppins-Medium.ttf);
+    font-family: farhan;
+    src: url(./font/Poppins-ExtraBoldItalic.ttf);
+    font-family: far;
+    src: url(./font/Poppins-LightItalic.ttf);
+
+}
+div{
+    font-family: customfont;
+    background-color: #90ee90;
+    color: #000000;
+    text-align: center;
+}
+span{
+    background-color: #ffd700;
+font-family: farhan;
+    
+}
+p{
+    font-family: far;
+}
